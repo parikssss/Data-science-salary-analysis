@@ -2,13 +2,17 @@
 Salaries of Different Data Science Fields in the Data Science Domain
 
 Exploratory Data Analysis (EDA)
+
 Summary
+
 The aim of this study is to investigate the factors influencing the salaries of Data Scientists. To achieve this, a dataset containing various relevant variables was utilized. This report describes the exploratory analysis conducted to understand the relationship between these factors and Data Scientists' salaries.
 
 Introduction
+
 Data science is a rapidly growing field, and Data Scientists play a crucial role in analyzing and interpreting large volumes of data. As this profession becomes increasingly in demand, it is important to understand the factors that may influence Data Scientists' salaries. This analysis focuses on investigating these factors and their impact on salaries.
 
 Methodology
+
 To conduct this analysis, a dataset containing relevant information about Data Scientists was used. The dataset includes the following variables:
 
 work_year: The year the salary was paid.
